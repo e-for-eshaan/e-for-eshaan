@@ -1,4 +1,4 @@
-Hi 👋 My name is Eshaan Yadav
+Hi 👋 My name is Eshaan
 =============================
 
 Programmer | Frontend Developer
