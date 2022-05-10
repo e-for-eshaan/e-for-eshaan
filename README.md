@@ -11,7 +11,8 @@ I am a full stack developer, specializing in frontend development. Proficient in
 *   🚀  I'm currently working at [Techwondoe](http://techwondoe.com) as a Frontend Developer
 *   🧠  I'm learning Next JS, TailwindCSS, Typescript
 *   🤝  I'm open to collaborating on Frontend, Full-stack, Python projects
-*   ⚡  I also play guitar and piano!### Skills<p align="left">
+*   ⚡  I also play guitar and piano!
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
