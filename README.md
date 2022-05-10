@@ -54,6 +54,6 @@ I am a full stack developer, specializing in frontend development. Proficient in
 
 <div width="100%" align="center"><a href="https://github.com/Eshaan-Y24/Investors-Assemble" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshaan-Y24&repo=Investors-Assemble&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Eshaan-Y24/Whatsapp-Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshaan-Y24&repo=Whatsapp-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Eshaan-Y24/reactjs-chartjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshaan-Y24&repo=reactjs-chartjs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Eshaan-Y24/IMDB-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshaan-Y24&repo=IMDB-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
