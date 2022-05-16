@@ -11,7 +11,7 @@ I am a full stack developer, specializing in frontend development. Proficient in
 * 🚀  I'm currently working on [Techwondoe](http://techwondoe.com)
 * 🧠  I'm learning Next JS, TailwindCSS, Typescript
 * 🤝  I'm open to collaborating on Frontend, Full-stack, Python projects
-* ⚡  I also play guitar and piano!
+* 🎵  I also play guitar and piano!
 
 ### Skills
 
