@@ -9,7 +9,7 @@ I am a full stack developer, specializing in frontend development. Proficient in
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [eshaanyadav24@gmail.com](mailto:eshaanyadav24@gmail.com)
 * 🚀  I'm currently working at [Techwondoe](https://www.techwondoe.com/)
-* 🧠  I'm learning Next JS, TailwindCSS, Typescript
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Frontend, Full-stack, Python projects
 * 🎵  I also play guitar and piano!
 
