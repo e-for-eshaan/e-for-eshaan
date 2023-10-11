@@ -4,7 +4,7 @@ Hi 👋 My name is Eshaan
 Programmer | Frontend Developer
 -------------------------------
 # 💫 About Me:
-🌍  I'm based in New Delhi<br>✉️  You can contact me at [eshaanyadav24@gmail.com](mailto:eshaanyadav24@gmail.com)<br>🚀  I'm currently working at [Zomato](https://www.zomato.com/)<br>🧠  I'm learning WebDev Frameworks<br>🤝  I'm open to collaborating on Frontend, Full-stack, Python projects<br>🎵  I also play Guitar and Piano!
+🌍  I'm based in New Delhi<br>✉️  You can contact me at [eshaanyadav24@gmail.com](mailto:eshaanyadav24@gmail.com)<br>🚀  I'm currently working at [Middleware]([https://www.zomato.com/](https://www.middlewarehq.com/))<br>🧠  I'm learning WebDev Frameworks<br>🤝  I'm open to collaborating on Frontend, Full-stack, Python projects<br>🎵  I also play Guitar and Piano!
 
 
 ## 🌐 Socials:
